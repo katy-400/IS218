@@ -1,5 +1,5 @@
 <?php
 
-	echo 'sup bruh';
+	echo 'HELLO';
 ?>
 
